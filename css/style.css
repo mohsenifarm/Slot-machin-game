@@ -1,0 +1,90 @@
+body {
+    height: 100vh;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-image: url('https://previews.123rf.com/images/istone_hun/istone_hun1404/istone_hun140400030/27426126-abstract-casino-and-poker-invitation-advert-background-with-empty-space.jpg');
+
+}
+nav {
+    border: 2px solid whitesmoke;
+    height: 200px;
+    width: 450px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-image: url('https://ak4.picdn.net/shutterstock/videos/1010323724/thumb/1.jpg?ip=x480');
+    background-size: cover;
+
+}
+section {
+    display: flex;
+    border: 2px solid whitesmoke;
+    height: 200px;
+    width: 450px;
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
+    background-color: rgb(150,42,223);
+}
+article {
+    border: 2px solid whitesmoke;
+    height: 200px;
+    width: 450px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 0;
+    background-color: rgb(106,149,174);
+
+}
+
+.a {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    height: 100px;
+    width: 100px;
+    border: 3px solid gray;
+
+}
+.b {
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    height: 100px;
+    width: 100px;
+    border: 3px solid gray;
+
+    
+
+}
+.c {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    height: 100px;
+    width: 100px;
+    border: 3px solid gray;
+}
+button {
+    padding: 20px 30px;
+    border: 7px solid black;
+    border-radius: 10%;
+}
+img {
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    height: 100px;
+    width: 100px;
+}
+h1 {
+    color: white;
+    font-size: 70px;
+}
